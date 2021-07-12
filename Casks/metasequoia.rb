@@ -1,6 +1,6 @@
 cask 'metasequoia' do
-  version "4.7.7c"
-  sha256 "3558f9aa0cf83a962e8fad156bc2a8963d77d680e4a63462e8a9e99e3e3d17a5"
+  version "4.7.7d"
+  sha256 "ed291369e6e7d997bd6dd053e5e8f477797c92342ed8559e3bc134ed4835e861"
 
   url "https://www.metaseq.net/metaseq/Metasequoia-#{version}-Installer.dmg"
   appcast 'https://www.metaseq.net/en/download.html'
