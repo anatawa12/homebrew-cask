@@ -4,7 +4,7 @@ cask "vcc-for-mac" do
 
   url "https://github.com/AranoYuki1/VCC-for-mac/releases/download/#{version}/VCCMac.app.zip"
   name "VCC for mac"
-  desc "VRChat Creator Companion for mac"
+  desc "Unofficial port of VRChat Creator Companion"
   homepage "https://github.com/AranoYuki1/VCC-for-mac/#readme"
 
   app "VCCMac.app"
